@@ -1,4 +1,4 @@
-//if conditional
+//if statement
 
 let age = prompt('enter your age')
 
