@@ -15,3 +15,6 @@ btn.onclick =  () => {
 btn.addEventListener('click', function() {
     console.log('clicked')
 })
+
+//the difference between onclick and addEventListener
+//addEventListener can add multiple events to a particular element. onclick can add only a single event to an element.
