@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+}
+
+.container {
+    background: #da9f9f;
+    width: 190px;
+    height: 100vh;
+}
+
+.container p {
+    padding: 5px;
+    color: white;
+}
+.container p:hover {
+    background: #8b8282;
+}
+
+button{
+    background: #da9f9f;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #8b8282;
+}
+
+#close{
+    position: absolute;
+    left: 190px;
+}
+
+.hide {
+    display: none;
+}
